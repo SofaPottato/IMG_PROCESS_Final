@@ -1,0 +1,8 @@
+train: C:\Users\s0810\Desktop\collegeshXt\imageprocess\images\train  # Path to your training images
+val: C:\Users\s0810\Desktop\collegeshXt\imageprocess\images\val    # Path to your validation images
+
+# Class names
+names:
+  0: Squid
+  1: Ocopus  # Your single class 'squid'
+  # ... other classes (if you have more in the future)
